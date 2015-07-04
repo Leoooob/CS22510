@@ -1,0 +1,20 @@
+﻿Build started 15/03/2015 16:44:03.
+     1>Project "M:\Documents\Visual Studio 2012\Projects\CS22510\CS22510\CS22510.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CS22510.cpp
+         CS22510.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"M:\Documents\Visual Studio 2012\Projects\CS22510\Debug\CS22510.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"M:\Documents\Visual Studio 2012\Projects\CS22510\Debug\CS22510.pdb" /SUBSYSTEM:CONSOLE /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"M:\Documents\Visual Studio 2012\Projects\CS22510\Debug\CS22510.lib" /MACHINE:X86 Debug\CS22510.res
+         Debug\Aphid.obj
+         Debug\Cell.obj
+         Debug\LadyBird.obj
+         Debug\CS22510.obj
+         Debug\GameSetup.obj
+         Debug\Grid.obj
+         Debug\stdafx.obj
+         CS22510.vcxproj -> M:\Documents\Visual Studio 2012\Projects\CS22510\Debug\CS22510.exe
+     1>Done Building Project "M:\Documents\Visual Studio 2012\Projects\CS22510\CS22510\CS22510.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.94
